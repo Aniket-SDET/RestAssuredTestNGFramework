@@ -11,7 +11,7 @@ For recruiters and technical reviewers, this repository demonstrates that I can 
 - OAuth2 token refresh and expiry handling
 - Singleton-based configuration management
 - Builder pattern for request payload construction
-- POJO/DTO modeling for JSON payloads
+- POJO modeling for JSON payloads
 - Enum-driven endpoint management
 - Data-driven and environment-based configuration
 - Reusable HTTP abstractions and request/response specs
